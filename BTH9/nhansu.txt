@@ -1,0 +1,4 @@
+MaNV	HoTen	NamSinh	DiaChi
+NV01	Tran Van Qua	2003	Da Nang
+NV02	Le Thi But	2003	Da Nang
+NV03	Nguyen La La	2003	Da Nang
