@@ -1,0 +1,6 @@
+# Đếm số từ giống nhau
+so_tu_giong_nhau = 0
+for tu in mang1:
+    if tu in mang2:
+        so_tu_giong_nhau += 1
+        mang2.remove(tu)  # Loại bỏ từ đã gặp trong văn bản 2 để tránh đếm lại
